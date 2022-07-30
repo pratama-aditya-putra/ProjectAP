@@ -1,0 +1,15 @@
+User Guide:
+	1. Choose one answer between {A, B, C, D} that you
+   	   think is the correct answer.
+	2. Fill in the username coloumn with your real name
+	   and NIM coloumn with your Student ID Number.
+	3. In this simulation there will be two part :
+	   > The first part is Structure and Written Expression
+	     where you must choose the correct answer 
+	     for the four choice given.
+	   > The second part is Error Recognition where you 
+	     choose word or phrase which would not be 
+	     appropriate in standard written english.
+	4. If there is any confusion which causes by the test 
+	   you can ask the invigilator.
+	5. Please do the test with remain quite and focus.
